@@ -13,5 +13,10 @@ General Path Finding Problems solved like: Multi Agent, A*, obstacle border, pos
 
 
 ## PROBLEM 3
+* To find the path to items on the map by avoiding obstacles using multi agent path finding and make the agent closest to the item collect the item and inform the other agents that the item is collected and by which agent.
+
 ## PROBLEM 4
+* To find all the possible paths to the goal on the map avoiding all the obstacles
+
 ## PROBLEM 5
+* To detect the border of the obstacles and draw the border of the obstacle 
