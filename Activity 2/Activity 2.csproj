@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Activity_2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Form1 - Copy.resx">
+      <DependentUpon>Form1 - Copy.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
