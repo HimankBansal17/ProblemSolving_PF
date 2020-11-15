@@ -220,7 +220,6 @@ namespace Assignment____Forms_
                 MatrixBoard.FindPath();
                 
             }
-                
             else
                 MessageBox.Show("Reset The App");
         }

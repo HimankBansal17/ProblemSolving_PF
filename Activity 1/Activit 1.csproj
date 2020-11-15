@@ -59,6 +59,7 @@
     <Compile Include="Activity 1 Console.Designer.cs">
       <DependentUpon>Activity 1 Console.cs</DependentUpon>
     </Compile>
+    <Compile Include="PathFinder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Activity 1 Board.resx">

@@ -18,3 +18,13 @@ D:\University Semester 3\advance programming\Activity 1\obj\Debug\Assignment____
 D:\University Semester 3\advance programming\Activity 1\obj\Debug\Activit 1.csproj.GenerateResource.cache
 D:\University Semester 3\advance programming\Activity 1\obj\Debug\Activity 1.exe
 D:\University Semester 3\advance programming\Activity 1\obj\Debug\Activity 1.pdb
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\Activity 1\bin\Debug\Activity 1.exe.config
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\Activity 1\bin\Debug\Activity 1.exe
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\Activity 1\bin\Debug\Activity 1.pdb
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\Activity 1\obj\Debug\Activit 1.csprojAssemblyReference.cache
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\Activity 1\obj\Debug\Assignment____Forms_.Form1.resources
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\Activity 1\obj\Debug\Assignment____Forms_.Activity1.resources
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\Activity 1\obj\Debug\Assignment____Forms_.Properties.Resources.resources
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\Activity 1\obj\Debug\Activit 1.csproj.GenerateResource.cache
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\Activity 1\obj\Debug\Activity 1.exe
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\Activity 1\obj\Debug\Activity 1.pdb

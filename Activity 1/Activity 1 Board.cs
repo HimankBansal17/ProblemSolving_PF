@@ -33,7 +33,8 @@ namespace Assignment____Forms_
 {
     public partial class Form1 : Form
     {
-
+        
+        //enum for path type selected
         public enum pathtype
         {
             easypath,
@@ -47,7 +48,7 @@ namespace Assignment____Forms_
         //For activity 1 and 2 test code
          Activity_1.Activity_1 activity_1=new Activity_1.Activity_1();
         //For Final Code
-        Activity_1.FindPath PathFinder = new Activity_1.FindPath();
+       Activity_1.FindPath PathFinder = new Activity_1.FindPath();
 
         List<Activity_1.Cell> Path;
 
@@ -129,21 +130,7 @@ namespace Assignment____Forms_
             SolidBrush b = new SolidBrush(Color.Red);
             panel1.BackColor = Color.Black;
             BoxSizOffset = panel1.Width / row;
-            //SqaureSize = (int)BoxSizOffset;
-           /* 
-            //draw the verticle lines for the board
-            for(int i=0;i<row;i++)
-            {
-                g.DrawLine(Pens.DarkGray,i*BoxSizOffset,0,i*BoxSizOffset,panel1.Height);
-            }
-
-            float BoxhieghtOffset = panel1.Height / col;
-            
-            //draw the vertical 
-            for(int i=0;i<col;i++)
-            {
-                g.DrawLine(Pens.DarkGray,0,i*BoxhieghtOffset,panel1.Width,i*BoxhieghtOffset);
-            }*/
+           
         }
         #endregion
 
@@ -157,7 +144,7 @@ namespace Assignment____Forms_
         }
 
 
-        /// <summary>
+    /// <summary>
     /// 
     /// 
     /// Function for Getting Possible nodes and visiting the next node once every time it is called 
@@ -216,6 +203,7 @@ namespace Assignment____Forms_
 
             else
             {
+               Thread.Sleep(200);
                FindPath();
             }
 

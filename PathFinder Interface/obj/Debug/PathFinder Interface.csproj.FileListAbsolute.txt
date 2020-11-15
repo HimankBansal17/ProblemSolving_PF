@@ -1,0 +1,8 @@
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\PathFinder Interface\obj\Debug\PathFinder Interface.csprojAssemblyReference.cache
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\PathFinder Interface\obj\Debug\PathFinder_Interface.Board.resources
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\PathFinder Interface\obj\Debug\PathFinder Interface.csproj.GenerateResource.cache
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\PathFinder Interface\bin\Debug\PathFinder Interface.exe.config
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\PathFinder Interface\bin\Debug\PathFinder Interface.exe
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\PathFinder Interface\bin\Debug\PathFinder Interface.pdb
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\PathFinder Interface\obj\Debug\PathFinder Interface.exe
+D:\University Semester 3\advance programming\u3183058_9746_Assignment 1\ProblemSolving_PF\PathFinder Interface\obj\Debug\PathFinder Interface.pdb
